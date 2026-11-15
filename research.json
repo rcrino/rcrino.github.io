@@ -1,0 +1,223 @@
+{
+  "publications": [
+    {
+      "id": "p001",
+      "title": "Artificial Intelligence and Jobs: Evidence from US Commuting Zones",
+      "citation": "with A. Bonfiglioli, G. Gancia and I. Papadakis · Economic Policy, 2025, 40(121), 145–194",
+      "paperUrl": "https://academic.oup.com/economicpolicy/article-abstract/40/121/145/7908355",
+      "voxeuUrl": "https://cepr.org/voxeu/columns/effect-ai-adoption-jobs-evidence-us-commuting-zones"
+    },
+    {
+      "id": "p002",
+      "title": "Firms and Economic Performance: A View from Trade",
+      "citation": "with A. Bonfiglioli and G. Gancia · European Economic Review, 2025, 172",
+      "paperUrl": "https://www.sciencedirect.com/science/article/pii/S0014292124002411",
+      "voxeuUrl": "https://voxeu.org/article/how-firms-shape-export-performance"
+    },
+    {
+      "id": "p003",
+      "title": "Robot Imports and Firm-Level Outcomes",
+      "citation": "with A. Bonfiglioli, H. Fadinger and G. Gancia · Economic Journal, 2024, 134(664), 3428–3444",
+      "paperUrl": "https://academic.oup.com/ej/advance-article/doi/10.1093/ej/ueae055/7699090",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p004",
+      "title": "Economic Uncertainty and Structural Reforms: Evidence from Stock Market Volatility",
+      "citation": "with A. Bonfiglioli and G. Gancia · Quantitative Economics, 2022, 13(2), 467–504",
+      "paperUrl": "https://qeconomics.org/ojs/index.php/qe/article/view/1621",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p005",
+      "title": "Robots, Offshoring and Welfare",
+      "citation": "with A. Bonfiglioli, G. Gancia and I. Papadakis · Robots and AI: A New Economic Era, Routledge, 2022",
+      "paperUrl": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003275534-3/robots-offshoring-welfare-alessandra-bonfiglioli-rosario-crin%C3%B2-gino-gancia-ioannis-papadakis",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p006",
+      "title": "International Trade with Heterogeneous Firms: Theory and Evidence",
+      "citation": "with A. Bonfiglioli and G. Gancia · Oxford Research Encyclopedia of Economics and Finance, 2022",
+      "paperUrl": "https://doi.org/10.1093/acrefore/9780190625979.013.707",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p007",
+      "title": "Concentration in International Markets: Evidence from US Imports",
+      "citation": "with A. Bonfiglioli and G. Gancia · Journal of Monetary Economics, 2021, 121, 19–39",
+      "paperUrl": "https://www.sciencedirect.com/science/article/pii/S0304393221000465",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p008",
+      "title": "Criminal Mobility, Fugitives, and Extradition Rules",
+      "citation": "with G. Immordino and S. Piccolo · Journal of Public Economic Theory, 2021, 23(1), 69–104",
+      "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1111/jpet.12474",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p009",
+      "title": "Marginal Deterrence at Work",
+      "citation": "with G. Immordino and S. Piccolo · Journal of Economic Behavior & Organization, 2019, 166, 586–612",
+      "paperUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0167268119302513",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p010",
+      "title": "Globalization and Mental Distress",
+      "citation": "with I. Colantone and L. Ogliari · Journal of International Economics, 2019, 119, 181–207",
+      "paperUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0022199619300418",
+      "voxeuUrl": "https://cepr.org/voxeu/article/import-competition-and-mental-distress"
+    },
+    {
+      "id": "p011",
+      "title": "Trade, Finance and Endogenous Firm Heterogeneity",
+      "citation": "with A. Bonfiglioli and G. Gancia · Journal of the European Economic Association, 2019, 17(1), 79–130",
+      "paperUrl": "https://academic.oup.com/jeea/article-abstract/17/1/79/4791178",
+      "voxeuUrl": "https://www.voxeu.org/article/why-firms-differ-so-much"
+    },
+    {
+      "id": "p012",
+      "title": "Betting on Exports: Trade and Endogenous Heterogeneity",
+      "citation": "with A. Bonfiglioli and G. Gancia · Economic Journal, 2018, 128(609), 612–651",
+      "paperUrl": "https://academic.oup.com/ej/article/128/609/612/5069534",
+      "voxeuUrl": "https://www.voxeu.org/article/why-firms-differ-so-much"
+    },
+    {
+      "id": "p013",
+      "title": "The Skill Bias of the U.S. Trade Deficit",
+      "citation": "with P. Epifani · The Factory-Free Economy, Oxford University Press, 2017",
+      "paperUrl": "https://oxford.universitypressscholarship.com/view/10.1093/acprof%3Aoso/9780198779162.001.0001/acprof-9780198779162-chapter-8",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p014",
+      "title": "Financial Imperfections, Product Quality, and International Trade",
+      "citation": "with L. Ogliari · Journal of International Economics, 2017, 104, 63–84",
+      "paperUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0022199616301180",
+      "voxeuUrl": "https://cepr.org/voxeu/article/financial-frictions-product-quality-and-international-trade"
+    },
+    {
+      "id": "p015",
+      "title": "Trade Imbalances, Export Structure and Wage Inequality",
+      "citation": "with P. Epifani · Economic Journal, 2014, 124(576), 507–539",
+      "paperUrl": "https://academic.oup.com/ej/article/124/576/507/5077349",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p016",
+      "title": "New Imported Inputs, New Domestic Products",
+      "citation": "with I. Colantone · Journal of International Economics, 2014, 92(1), 147–165",
+      "paperUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0022199613001037",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p017",
+      "title": "Service Offshoring and Labor Demand in Europe",
+      "citation": "Oxford Handbook of Global Employment and Offshoring, Oxford University Press, 2013",
+      "paperUrl": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199765904.001.0001/oxfordhb-9780199765904-e-003",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p018",
+      "title": "Productivity, Quality and Export Behavior",
+      "citation": "with P. Epifani · Economic Journal, 2012, 122(565), 1206–1243",
+      "paperUrl": "https://academic.oup.com/ej/article-abstract/122/565/1206/5079470",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p019",
+      "title": "Imported Inputs and Skill Upgrading",
+      "citation": "Labour Economics, 2012, 19(6), 957–969",
+      "paperUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0927537112000796",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p020",
+      "title": "Foreign Direct Investment, Trade, and Skilled Labour Demand in Eastern Europe",
+      "citation": "with G. Bruno and A. Falzoni · Labour, 2012, 26(4), 492–513",
+      "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1111/labr.12001",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p021",
+      "title": "Service Offshoring and the Skill Composition of Labor Demand",
+      "citation": "Oxford Bulletin of Economics and Statistics, 2012, 74(1), 20–57",
+      "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0084.2010.00634.x",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p022",
+      "title": "The Effects of Offshoring on Post-Displacement Wages: Evidence from the United States",
+      "citation": "World Economy, 2010, 33(12), 1836–1869",
+      "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9701.2010.01278.x",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p023",
+      "title": "Employment Effects of Service Offshoring: Evidence from Matched Firms",
+      "citation": "Economics Letters, 2010, 107(2), 253–256",
+      "paperUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0165176510000406",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p024",
+      "title": "Service Offshoring and White-Collar Employment",
+      "citation": "Review of Economic Studies, 2010, 77(2), 595–632",
+      "paperUrl": "https://academic.oup.com/restud/article-abstract/77/2/595/1580241",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p025",
+      "title": "Offshoring, Multinationals and Labour Market: A Review of the Empirical Literature",
+      "citation": "Journal of Economic Surveys, 2009, 23(2), 197–249",
+      "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2008.00561.x",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p026",
+      "title": "Service Offshoring and Productivity in Western Europe",
+      "citation": "Economics Bulletin, 2008, 6(35), 1–8",
+      "paperUrl": "https://www.accessecon.com/pubs/EB/2008/Volume6/EB-08F10021A.pdf",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p027",
+      "title": "Foreign Ownership and Economic Performance in Italy: Not All is Cherry-Picking!",
+      "citation": "with F. Onida · International Review of Business Research Papers, 2008, 4(4), 102–117",
+      "paperUrl": "",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "p028",
+      "title": "Wages, Skills and Integration in Poland, Hungary and the Czech Republic: an Industry-Level Analysis",
+      "citation": "Transition Studies Review, 2005, 12(3), 432–459",
+      "paperUrl": "https://link.springer.com/article/10.1007/s11300-005-0069-5",
+      "voxeuUrl": ""
+    }
+  ],
+  "working": [
+    {
+      "id": "w001",
+      "title": "Data, Power and Emissions: The Environmental Cost of AI",
+      "citation": "with A. Bonfiglioli, M. Filomena and G. Gancia · September 2025 · CEPR Discussion Paper 20686 · This version: October 2026",
+      "paperUrl": "",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "w002",
+      "title": "Integrators and Robot Adoption: Facts from Hungary",
+      "citation": "with G. Bekes, A. Bonfiglioli and G. Gancia · March 2025 · CEPR Discussion Paper 20026 · This version: September 2026",
+      "paperUrl": "",
+      "voxeuUrl": ""
+    },
+    {
+      "id": "w003",
+      "title": "Comparative Advantage in AI-Intensive Industries: Evidence from US Imports",
+      "citation": "with A. Bonfiglioli, M. Filomena and G. Gancia · January 2025 · CEPR Discussion Paper 19883 · This version: November 2025",
+      "paperUrl": "",
+      "voxeuUrl": ""
+    }
+  ]
+}

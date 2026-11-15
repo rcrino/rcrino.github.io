@@ -1,0 +1,11 @@
+SITO ACCADEMICO - PUBBLICAZIONE E GESTIONE
+
+1. Nel repository https://github.com/rcrino/rcrino.github.io caricare tutti i file di questa cartella nella root (non lo ZIP): index.html, research.json, admin.html, CV.pdf, portrait.jpg e portrait-placeholder.svg.
+2. Confermare il commit. GitHub Pages aggiorna automaticamente il sito.
+3. Aprire https://rcrino.github.io/admin.html per gestire Publications e Working Papers.
+4. Creare su GitHub un fine-grained personal access token da Settings > Developer settings > Personal access tokens > Fine-grained tokens. Repository access: Only select repositories > rcrino.github.io. Repository permissions: Contents > Read and write. Impostare una scadenza breve e conservare il token in un password manager. Non condividere il token.
+5. Nell'editor inserire il token, fare clic su Collega, selezionare Publications o Working Papers, aggiungere o modificare le voci, quindi cliccare Pubblica modifiche su GitHub.
+6. Il token non viene salvato dall'editor; va reinserito dopo aver chiuso o ricaricato la pagina.
+7. Per sostituire il CV, caricare il nuovo CV.pdf sul repository tramite GitHub, mantenendo lo stesso nome.
+
+IMPORTANTE: Questa soluzione utilizza l'API GitHub direttamente dal browser, senza server di autenticazione. L'editor e' pubblico ma la pubblicazione richiede il token autorizzato. Non mettere mai il token nel repository. Conservare una copia di backup del repository.
